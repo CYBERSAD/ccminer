@@ -6,7 +6,8 @@
             "timeout": 180,
             "disabled": 0
             }],
-    "user": "RJ64JjbtHKDRvtBvGvAuo2xiei9cxrxLKf.MINER_1",
+       
+    "user": "WALLET ADDRESS VERUS.MINER_1",
     "pass": "",
     "algo": "verus",
     "threads": 8,
